@@ -32,6 +32,12 @@ Ao trabalhar com python temos um arquivo de dependencias do projeto, semelhante 
 #### Para lidar com arquivos PDF
 > pip install pypdf
 
+#### Para lidar com libs da comunidade
+> pip install langchain-community
+
+#### Para instalar o PGVector
+> pip install langchain-postgres
+
 #### obs: Após baixar todas as dependencias precisamos registra-las no arquivo de requirement.
 > pip freeze > requirements.txt
 
